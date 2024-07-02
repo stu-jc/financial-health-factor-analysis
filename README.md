@@ -1,6 +1,7 @@
 # Financial Health Factor Analysis
 
-Project Overview
+Project Overview:
+
 This repository contains a quantitative finance project focusing on factor analysis of financial health metrics to assess their predictive power in investment strategies.
 
 Key Features:
